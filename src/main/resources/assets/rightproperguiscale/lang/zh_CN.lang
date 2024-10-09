@@ -1,0 +1,14 @@
+# OptiFine tooltip replacement
+options.rightProperGuiScale.tooltip.1=GUI 缩放
+options.rightProperGuiScale.tooltip.2=  1.0  - 小
+options.rightProperGuiScale.tooltip.3=  2.0  - 正常
+options.rightProperGuiScale.tooltip.4=  3.0  - 大
+options.rightProperGuiScale.tooltip.5=  3.0+ - 可调整的自动
+options.rightProperGuiScale.tooltip.6=实际缩放受显示器尺寸限制。
+options.rightProperGuiScale.tooltip.7=某些值会使 Unicode 字体难以阅读。
+options.rightProperGuiScale.tooltip.8=强烈推荐使用 SmoothFont 模组！
+
+# Commands
+commands.guiscale.usage=/guiscale <gui缩放倍数>
+commands.guiscale.success=§6Gui 缩放: §f%s
+commands.guiscale.number_invalid='%s' 不是有效的浮点数。
